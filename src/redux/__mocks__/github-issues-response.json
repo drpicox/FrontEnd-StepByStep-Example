@@ -1,0 +1,359 @@
+[
+  {
+    "url": "https://api.github.com/repos/TC-LabSoft2/TEST/issues/14",
+    "repository_url": "https://api.github.com/repos/TC-LabSoft2/TEST",
+    "labels_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/14/labels{/name}",
+    "comments_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/14/comments",
+    "events_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/14/events",
+    "html_url": "https://github.com/TC-LabSoft2/TEST/issues/14",
+    "id": 265279089,
+    "number": 14,
+    "title": "Something without PR",
+    "user": {
+      "login": "drpicox",
+      "id": 2758345,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drpicox",
+      "html_url": "https://github.com/drpicox",
+      "followers_url": "https://api.github.com/users/drpicox/followers",
+      "following_url":
+        "https://api.github.com/users/drpicox/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+      "starred_url":
+        "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drpicox/subscriptions",
+      "organizations_url": "https://api.github.com/users/drpicox/orgs",
+      "repos_url": "https://api.github.com/users/drpicox/repos",
+      "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+      "received_events_url":
+        "https://api.github.com/users/drpicox/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-10-13T12:53:49Z",
+    "updated_at": "2017-10-13T12:53:49Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/TC-LabSoft2/TEST/issues/13",
+    "repository_url": "https://api.github.com/repos/TC-LabSoft2/TEST",
+    "labels_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/13/labels{/name}",
+    "comments_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/13/comments",
+    "events_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/13/events",
+    "html_url": "https://github.com/TC-LabSoft2/TEST/pull/13",
+    "id": 265276352,
+    "number": 13,
+    "title": "#12",
+    "user": {
+      "login": "drpicox",
+      "id": 2758345,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drpicox",
+      "html_url": "https://github.com/drpicox",
+      "followers_url": "https://api.github.com/users/drpicox/followers",
+      "following_url":
+        "https://api.github.com/users/drpicox/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+      "starred_url":
+        "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drpicox/subscriptions",
+      "organizations_url": "https://api.github.com/users/drpicox/orgs",
+      "repos_url": "https://api.github.com/users/drpicox/repos",
+      "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+      "received_events_url":
+        "https://api.github.com/users/drpicox/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-10-13T12:44:08Z",
+    "updated_at": "2017-10-16T08:55:47Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "pull_request": {
+      "url": "https://api.github.com/repos/TC-LabSoft2/TEST/pulls/13",
+      "html_url": "https://github.com/TC-LabSoft2/TEST/pull/13",
+      "diff_url": "https://github.com/TC-LabSoft2/TEST/pull/13.diff",
+      "patch_url": "https://github.com/TC-LabSoft2/TEST/pull/13.patch"
+    },
+    "body": "#12 "
+  },
+  {
+    "url": "https://api.github.com/repos/TC-LabSoft2/TEST/issues/12",
+    "repository_url": "https://api.github.com/repos/TC-LabSoft2/TEST",
+    "labels_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/12/labels{/name}",
+    "comments_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/12/comments",
+    "events_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/12/events",
+    "html_url": "https://github.com/TC-LabSoft2/TEST/issues/12",
+    "id": 265276161,
+    "number": 12,
+    "title": "Something pending...",
+    "user": {
+      "login": "drpicox",
+      "id": 2758345,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drpicox",
+      "html_url": "https://github.com/drpicox",
+      "followers_url": "https://api.github.com/users/drpicox/followers",
+      "following_url":
+        "https://api.github.com/users/drpicox/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+      "starred_url":
+        "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drpicox/subscriptions",
+      "organizations_url": "https://api.github.com/users/drpicox/orgs",
+      "repos_url": "https://api.github.com/users/drpicox/repos",
+      "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+      "received_events_url":
+        "https://api.github.com/users/drpicox/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 700069689,
+        "url": "https://api.github.com/repos/TC-LabSoft2/TEST/labels/bug",
+        "name": "bug",
+        "color": "ee0701",
+        "default": true
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-10-13T12:43:29Z",
+    "updated_at": "2017-10-16T09:04:22Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "body": "blabla but with PR"
+  },
+  {
+    "url": "https://api.github.com/repos/TC-LabSoft2/TEST/issues/10",
+    "repository_url": "https://api.github.com/repos/TC-LabSoft2/TEST",
+    "labels_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/10/labels{/name}",
+    "comments_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/10/comments",
+    "events_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/10/events",
+    "html_url": "https://github.com/TC-LabSoft2/TEST/issues/10",
+    "id": 265275134,
+    "number": 10,
+    "title": "Squash and merge",
+    "user": {
+      "login": "drpicox",
+      "id": 2758345,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drpicox",
+      "html_url": "https://github.com/drpicox",
+      "followers_url": "https://api.github.com/users/drpicox/followers",
+      "following_url":
+        "https://api.github.com/users/drpicox/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+      "starred_url":
+        "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drpicox/subscriptions",
+      "organizations_url": "https://api.github.com/users/drpicox/orgs",
+      "repos_url": "https://api.github.com/users/drpicox/repos",
+      "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+      "received_events_url":
+        "https://api.github.com/users/drpicox/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-10-13T12:39:48Z",
+    "updated_at": "2017-10-13T12:39:48Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "body": "A veure que tal"
+  },
+  {
+    "url": "https://api.github.com/repos/TC-LabSoft2/TEST/issues/8",
+    "repository_url": "https://api.github.com/repos/TC-LabSoft2/TEST",
+    "labels_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/8/labels{/name}",
+    "comments_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/8/comments",
+    "events_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/8/events",
+    "html_url": "https://github.com/TC-LabSoft2/TEST/issues/8",
+    "id": 265273824,
+    "number": 8,
+    "title": "Issue suelta",
+    "user": {
+      "login": "drpicox",
+      "id": 2758345,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drpicox",
+      "html_url": "https://github.com/drpicox",
+      "followers_url": "https://api.github.com/users/drpicox/followers",
+      "following_url":
+        "https://api.github.com/users/drpicox/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+      "starred_url":
+        "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drpicox/subscriptions",
+      "organizations_url": "https://api.github.com/users/drpicox/orgs",
+      "repos_url": "https://api.github.com/users/drpicox/repos",
+      "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+      "received_events_url":
+        "https://api.github.com/users/drpicox/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-10-13T12:34:53Z",
+    "updated_at": "2017-10-13T12:34:53Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/TC-LabSoft2/TEST/issues/5",
+    "repository_url": "https://api.github.com/repos/TC-LabSoft2/TEST",
+    "labels_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/5/labels{/name}",
+    "comments_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/5/comments",
+    "events_url":
+      "https://api.github.com/repos/TC-LabSoft2/TEST/issues/5/events",
+    "html_url": "https://github.com/TC-LabSoft2/TEST/issues/5",
+    "id": 261205147,
+    "number": 5,
+    "title": "Piolin se sienta",
+    "user": {
+      "login": "drpicox",
+      "id": 2758345,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drpicox",
+      "html_url": "https://github.com/drpicox",
+      "followers_url": "https://api.github.com/users/drpicox/followers",
+      "following_url":
+        "https://api.github.com/users/drpicox/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+      "starred_url":
+        "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drpicox/subscriptions",
+      "organizations_url": "https://api.github.com/users/drpicox/orgs",
+      "repos_url": "https://api.github.com/users/drpicox/repos",
+      "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+      "received_events_url":
+        "https://api.github.com/users/drpicox/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 12345,
+        "url": "https://api.github.com/repos/TC-LabSoft2/TEST/labels/score-1",
+        "name": "score-1",
+        "color": "ee0701",
+        "default": true
+      },
+      {
+        "id": 700069689,
+        "url": "https://api.github.com/repos/TC-LabSoft2/TEST/labels/bug",
+        "name": "bug",
+        "color": "ee0701",
+        "default": true
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": {
+      "url": "https://api.github.com/repos/TC-LabSoft2/TEST/milestones/1",
+      "html_url": "https://github.com/TC-LabSoft2/TEST/milestone/1",
+      "labels_url":
+        "https://api.github.com/repos/TC-LabSoft2/TEST/milestones/1/labels",
+      "id": 2799422,
+      "number": 1,
+      "title": "Version 1.0",
+      "description": null,
+      "creator": {
+        "login": "drpicox",
+        "id": 2758345,
+        "avatar_url": "https://avatars2.githubusercontent.com/u/2758345?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/drpicox",
+        "html_url": "https://github.com/drpicox",
+        "followers_url": "https://api.github.com/users/drpicox/followers",
+        "following_url":
+          "https://api.github.com/users/drpicox/following{/other_user}",
+        "gists_url": "https://api.github.com/users/drpicox/gists{/gist_id}",
+        "starred_url":
+          "https://api.github.com/users/drpicox/starred{/owner}{/repo}",
+        "subscriptions_url":
+          "https://api.github.com/users/drpicox/subscriptions",
+        "organizations_url": "https://api.github.com/users/drpicox/orgs",
+        "repos_url": "https://api.github.com/users/drpicox/repos",
+        "events_url": "https://api.github.com/users/drpicox/events{/privacy}",
+        "received_events_url":
+          "https://api.github.com/users/drpicox/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "open_issues": 1,
+      "closed_issues": 0,
+      "state": "open",
+      "created_at": "2017-09-28T06:23:27Z",
+      "updated_at": "2017-09-28T06:23:27Z",
+      "due_on": null,
+      "closed_at": null
+    },
+    "comments": 0,
+    "created_at": "2017-09-28T06:20:50Z",
+    "updated_at": "2017-09-28T06:23:27Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "body":
+      "En el readme deia silenci, pero ha de sentarse\r\n\r\n## Test Cases\r\n\r\n1. Entra al README.md\r\n2. Test: ha de dir \"sienta\""
+  }
+]
