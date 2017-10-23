@@ -37,10 +37,19 @@
    $ npm test -- --coverage
    ```
    
+## Extensions
+
+Nice chrome extensions to have:
+
+- [Chrome React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [Redux Developer Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
+- [Visual Code Studio Prettier Extension](https://github.com/prettier/prettier-vscode)
+- [Visual Code Studio ESlint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Visual Code Studio Jest Extension](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest), note that this extension is kind of beta
 
 
-
-## Original Docs
+## Original Docs
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
