@@ -1,7 +1,7 @@
 import { applyMiddleware, compose, createStore } from 'redux';
 import { createEpicMiddleware } from 'redux-observable';
 
-import appReducer from './redux/reducer';
+import appReducer from './reducer';
 import appEpic from './epic';
 
 let enhancer = applyMiddleware(createEpicMiddleware(appEpic));

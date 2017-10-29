@@ -1,9 +1,8 @@
 import SelectString from '../components/SelectString';
 
 import { connect } from 'react-redux';
-import { getRepoList } from '../../repos.list';
-import { getCurrentRepo } from '../../repos.current';
-import { setCurrentRepo } from '../../repos.current';
+import { getRepoList, getCurrentRepo } from '../../selectors';
+import { setCurrentRepo } from '../../actions';
 
 export default connect(
   state => ({

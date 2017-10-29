@@ -1,4 +1,4 @@
-import reducer from '../../reducer';
+import reducer from '../../../reducer';
 
 import { setCurrentRepo } from '../actions';
 import { getCurrentRepo } from './getCurrentRepo';
