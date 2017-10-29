@@ -1,6 +1,6 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import Main from './views/_components/Main';
+import Main from './views/components/Main';
 import store from './store';
 
 export default () => (
