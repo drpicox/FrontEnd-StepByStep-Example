@@ -1,4 +1,4 @@
-import reducer from './reducer';
+import reducer from '../reducer';
 
 describe('reduce(repos.list)', () => {
   it('should initialize an array of strings', () => {

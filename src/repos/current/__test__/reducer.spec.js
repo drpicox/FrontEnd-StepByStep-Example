@@ -1,6 +1,6 @@
-import reducer from './reducer';
+import reducer from '../reducer';
 
-import { setCurrentRepo } from './actions';
+import { setCurrentRepo } from '../actions';
 
 describe('reduce(repos.current)', () => {
   it('should have null as initial state', () => {

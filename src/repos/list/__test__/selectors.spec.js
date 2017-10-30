@@ -1,6 +1,6 @@
 import reducer from '../../../reducer';
 
-import { getRepoList } from './getRepoList';
+import { getRepoList } from '../selectors';
 
 describe('repos.current', () => {
   describe('getRepoList', () => {

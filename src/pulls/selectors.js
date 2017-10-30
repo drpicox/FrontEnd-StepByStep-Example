@@ -1,6 +1,6 @@
 import { createSelector } from 'reselect';
 
-import { getPulls } from './getPulls';
+export const getPulls = state => state.pulls;
 
 export const getPullsList = createSelector([getPulls], pulls =>
   Object.values(pulls),

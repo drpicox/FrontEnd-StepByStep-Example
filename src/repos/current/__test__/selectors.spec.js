@@ -1,7 +1,7 @@
 import reducer from '../../../reducer';
 
 import { setCurrentRepo } from '../actions';
-import { getCurrentRepo } from './getCurrentRepo';
+import { getCurrentRepo } from '../selectors';
 
 describe('repos.current', () => {
   describe('getCurrentRepo', () => {

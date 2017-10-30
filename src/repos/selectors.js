@@ -1,2 +1,2 @@
-export * from './$.current/selectors';
-export * from './$.list/selectors';
+export * from './current/selectors';
+export * from './list/selectors';
