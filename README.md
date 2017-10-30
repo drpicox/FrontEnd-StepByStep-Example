@@ -48,6 +48,10 @@ Nice chrome extensions to have:
 - [Visual Code Studio ESlint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Visual Code Studio Jest Extension](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest), note that this extension is kind of beta
 
+## RX JS docs for Epics 
+
+- http://rxmarbles.com
+- https://www.learnrxjs.io
 
 ## Original Docs
 
