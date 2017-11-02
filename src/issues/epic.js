@@ -1,13 +1,13 @@
 import { combineEpics } from 'redux-observable';
 import {
+  SET_CURRENT_REPO,
   fetchIssues,
   FETCH_ISSUES,
   fetchIssuesFulfilled,
   fetchIssuesRejected,
-} from './actions';
-import { SET_CURRENT_REPO } from '../actions';
+} from '../actions';
 
-import api from 'api';
+import api from '../api';
 
 export const fetchIssuesEpic = action$ =>
   action$

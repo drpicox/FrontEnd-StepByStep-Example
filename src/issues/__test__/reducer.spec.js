@@ -1,7 +1,7 @@
 import issuesResponse from 'github-issues-response';
 
-import { fetchIssuesFulfilled } from '../actions';
 import reduce from '../reducer';
+import { fetchIssuesFulfilled } from '../actions';
 
 describe('reduce(issues)', () => {
   it('should initialize as an object', () => {
