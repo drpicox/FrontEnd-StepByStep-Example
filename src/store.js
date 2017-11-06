@@ -4,10 +4,9 @@ import { createEpicMiddleware } from 'redux-observable';
 import appReducer from './reducer';
 import appEpic from './epic';
 
-let enhancer = applyMiddleware(createEpicMiddleware(appEpic));
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
-if (window.__REDUX_DEVTOOLS_EXTENSION__) {
-  enhancer = compose(enhancer, window.__REDUX_DEVTOOLS_EXTENSION__());
-}
-
-export default createStore(appReducer, enhancer);
+export default createStore(
+  appReducer,
+  composeEnhancers(applyMiddleware(createEpicMiddleware(appEpic))),
+);
