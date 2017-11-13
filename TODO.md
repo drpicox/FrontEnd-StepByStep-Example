@@ -26,7 +26,7 @@ TODO
     [X] Create selectors `getViewRoot(state)` and `getViewId(state)`
     [X] Create Container CurrentViewRoot
         https://redux.js.org/docs/basics/UsageWithReact.html
-    [ ] Create Component Link
+    [X] Create Component Link
     [ ] Create Container ViewLink
 
 [ ] Posts: First EPIC
