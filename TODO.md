@@ -4,7 +4,7 @@ TODO
 [X] Create the TODO
 [ ] Cleanup
     [X] Say Hello World
-    [ ] Remove unnecessary code
+    [X] Remove unnecessary code
     [ ] Change github API for myAPI
     [ ] Change proxy to https://jsonplaceholder.typicode.com
 
