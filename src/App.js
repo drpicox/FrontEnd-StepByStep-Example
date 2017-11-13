@@ -2,10 +2,10 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import store from './store';
 
-import ViewRoot from './ViewRoot';
+import CurrentViewRoot from './containers/CurrentViewRoot';
 
 export default () => (
   <Provider store={store}>
-    <ViewRoot root="welcome" />
+    <CurrentViewRoot />
   </Provider>
 );

@@ -1,1 +1,1 @@
-// export * from './issues/selectors';
+export * from './view/selectors';

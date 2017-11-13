@@ -4,7 +4,7 @@ export default function Comments(props) {
   return (
     <ul>
       {props.comments.map(comment => (
-        <li>
+        <li key={comment.id}>
           {comment.name} ({comment.email})<br />
           {comment.body}
         </li>
