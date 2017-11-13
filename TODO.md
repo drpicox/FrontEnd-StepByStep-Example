@@ -23,7 +23,7 @@ TODO
 [ ] View: First Redux Component/Container
     [X] Create a reducer for view
     [X] Create action `setView(root, id)`
-    [ ] Create selectors `getViewRoot(state)` and `getViewId(state)`
+    [X] Create selectors `getViewRoot(state)` and `getViewId(state)`
     [ ] Create Container CurrentViewRoot
         https://redux.js.org/docs/basics/UsageWithReact.html
     [ ] Create Component Link
