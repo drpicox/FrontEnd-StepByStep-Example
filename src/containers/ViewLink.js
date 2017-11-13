@@ -12,12 +12,8 @@ function mapStateToProps(state, ownProps) {
   };
 }
 
-const mapDispatchToProps = (dispatch, ownProps) => {
-  return {
-    setView: (root, id) => {
-      dispatch(setView(root, id));
-    },
-  };
+const mapDispatchToProps = {
+  setView,
 };
 
 const ViewLink = connect(mapStateToProps, mapDispatchToProps)(Link);

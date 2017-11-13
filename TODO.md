@@ -28,6 +28,7 @@ TODO
         https://redux.js.org/docs/basics/UsageWithReact.html
     [X] Create Component Link
     [X] Create Container ViewLink
+    [X] Simplificate mapDispatchToProps in ViewLink
 
 [ ] Posts: First EPIC
     [ ] Create a reducer for posts
