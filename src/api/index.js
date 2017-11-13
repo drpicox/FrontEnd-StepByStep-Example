@@ -1,15 +1,15 @@
-import githubAjax from './_lib/githubAjax';
+import myAjax from './lib/myAjax';
 
 export default {
   get: (url, options) =>
-    githubAjax({
+    myAjax({
       url,
       method: 'GET',
       ...options,
     }),
 
   post: (url, body, options) =>
-    githubAjax({
+    myAjax({
       url,
       method: 'POST',
       body: JSON.stringify(body),
@@ -17,7 +17,7 @@ export default {
     }),
 
   put: (url, body, options) =>
-    githubAjax({
+    myAjax({
       url,
       method: 'PUT',
       body: JSON.stringify(body),
@@ -25,7 +25,7 @@ export default {
     }),
 
   delete: (url, options) =>
-    githubAjax({
+    myAjax({
       url,
       method: 'DELETE',
       ...options,

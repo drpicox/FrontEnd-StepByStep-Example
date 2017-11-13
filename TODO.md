@@ -5,7 +5,7 @@ TODO
 [ ] Cleanup
     [X] Say Hello World
     [X] Remove unnecessary code
-    [ ] Change github API for myAPI
+    [X] Change github API for myAPI
     [ ] Change proxy to https://jsonplaceholder.typicode.com
 
 [ ] Thinking in React
