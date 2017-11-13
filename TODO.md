@@ -1,7 +1,7 @@
 TODO
 ====
 
-[ ] Create the TODO
+[X] Create the TODO
 [ ] Cleanup
     [ ] Say Hello World
     [ ] Remove unnecessary code
