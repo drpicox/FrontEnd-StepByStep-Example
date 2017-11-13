@@ -1,10 +1,7 @@
 import { combineReducers } from 'redux';
 
-function doNothingReducer(state, action) {
-  return action;
-}
-//import labels from './labels/reducer';
+import view from './view/reducer';
 
 export default combineReducers({
-  doNothingReducer,
+  view,
 });

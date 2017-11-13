@@ -21,7 +21,7 @@ TODO
     [X] Create Component ViewRoot
 
 [ ] View: First Redux Component/Container
-    [ ] Create a reducer for view
+    [X] Create a reducer for view
     [ ] Create action `setView(root, id)`
     [ ] Create selectors `getViewRoot(state)` and `getViewId(state)`
     [ ] Create Container CurrentViewRoot
