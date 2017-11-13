@@ -30,5 +30,5 @@
     "singleQuote": true,
     "trailingComma": "all"
   },
-  "proxy": "https://api.github.com"
+  "proxy": "https://jsonplaceholder.typicode.com"
 }

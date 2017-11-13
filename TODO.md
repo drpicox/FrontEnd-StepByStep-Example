@@ -2,11 +2,11 @@ TODO
 ====
 
 [X] Create the TODO
-[ ] Cleanup
+[X] Cleanup
     [X] Say Hello World
     [X] Remove unnecessary code
     [X] Change github API for myAPI
-    [ ] Change proxy to https://jsonplaceholder.typicode.com
+    [X] Change proxy to https://jsonplaceholder.typicode.com
 
 [ ] Thinking in React
     https://reactjs.org/docs/thinking-in-react.html
