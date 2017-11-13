@@ -17,7 +17,7 @@ TODO
     [X] Create Component Welcome
     [X] Create Component Search
     [X] Create Component Post
-    [ ] Create Component Comments
+    [X] Create Component Comments
     [ ] Create Component ViewRoot
 
 [ ] View: First Redux Component/Container
