@@ -8,7 +8,7 @@ TODO
     [X] Change github API for myAPI
     [X] Change proxy to https://jsonplaceholder.typicode.com
 
-[ ] Thinking in React
+[X] Thinking in React
     https://reactjs.org/docs/thinking-in-react.html
     [X] Create a mock for.
         - Welcome: it should be welcome, list of Posts, and input search
@@ -18,7 +18,7 @@ TODO
     [X] Create Component Search
     [X] Create Component Post
     [X] Create Component Comments
-    [ ] Create Component ViewRoot
+    [X] Create Component ViewRoot
 
 [ ] View: First Redux Component/Container
     [ ] Create a reducer for view
