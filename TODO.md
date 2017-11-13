@@ -20,14 +20,14 @@ TODO
     [X] Create Component Comments
     [X] Create Component ViewRoot
 
-[ ] View: First Redux Component/Container
+[X] View: First Redux Component/Container
     [X] Create a reducer for view
     [X] Create action `setView(root, id)`
     [X] Create selectors `getViewRoot(state)` and `getViewId(state)`
     [X] Create Container CurrentViewRoot
         https://redux.js.org/docs/basics/UsageWithReact.html
     [X] Create Component Link
-    [ ] Create Container ViewLink
+    [X] Create Container ViewLink
 
 [ ] Posts: First EPIC
     [ ] Create a reducer for posts

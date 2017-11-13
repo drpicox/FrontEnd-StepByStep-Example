@@ -1,1 +1,1 @@
-// export * from './repos/actions';
+export * from './view/actions';

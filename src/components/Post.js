@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Comments from './Comments';
+import ViewLink from '../containers/ViewLink';
 
 const DUMMY_COMMENTS = [
   {
@@ -28,6 +29,7 @@ export default function Post(props) {
       {props.post.body} <br />
       Comments:
       <Comments comments={DUMMY_COMMENTS} />
+      <ViewLink text="Back" root="welcome" />
     </div>
   );
 }

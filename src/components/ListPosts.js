@@ -1,12 +1,13 @@
 import React from 'react';
 
-import Link from './Link';
+import ViewLink from '../containers/ViewLink';
+
 export default function ListPosts(props) {
   return (
     <ul>
       {props.posts.map(post => (
         <li key={post.id}>
-          <Link text={post.title} />
+          <ViewLink text={post.title} root="post" id={post.id} />
         </li>
       ))}
     </ul>
