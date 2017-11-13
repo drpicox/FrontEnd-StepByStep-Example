@@ -14,7 +14,7 @@ TODO
         - Welcome: it should be welcome, list of Posts, and input search
         - Post: it should show title, body, comments
     [X] Create Component ListPosts
-    [ ] Create Component Welcome
+    [X] Create Component Welcome
     [ ] Create Component Search
     [ ] Create Component Post
     [ ] Create Component Comments
