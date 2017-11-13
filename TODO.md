@@ -15,7 +15,7 @@ TODO
         - Post: it should show title, body, comments
     [X] Create Component ListPosts
     [X] Create Component Welcome
-    [ ] Create Component Search
+    [X] Create Component Search
     [ ] Create Component Post
     [ ] Create Component Comments
     [ ] Create Component ViewRoot

@@ -1,6 +1,7 @@
 import React from 'react';
 
 import ListPosts from './ListPosts';
+import Search from './Search';
 
 const DUMMY_POSTS = [
   {
@@ -31,7 +32,7 @@ export default function Welcome() {
   return (
     <div>
       <h1>Welcome to my Blog</h1>
-      <input type="text" placeholder="search" />
+      <Search />
       <br />
       Posts:
       <ListPosts posts={DUMMY_POSTS} />
