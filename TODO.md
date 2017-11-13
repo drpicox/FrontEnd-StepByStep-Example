@@ -16,7 +16,7 @@ TODO
     [X] Create Component ListPosts
     [X] Create Component Welcome
     [X] Create Component Search
-    [ ] Create Component Post
+    [X] Create Component Post
     [ ] Create Component Comments
     [ ] Create Component ViewRoot
 
