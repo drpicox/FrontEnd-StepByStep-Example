@@ -10,9 +10,9 @@ TODO
 
 [ ] Thinking in React
     https://reactjs.org/docs/thinking-in-react.html
-    [ ] Create a mock for.
+    [X] Create a mock for.
         - Welcome: it should be welcome, list of Posts, and input search
-        - Post: it should show title, body, user author, link to user author
+        - Post: it should show title, body, comments
     [ ] Create Component ListPosts
     [ ] Create Component Welcome
     [ ] Create Component Search
