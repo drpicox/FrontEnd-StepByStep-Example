@@ -31,7 +31,7 @@ TODO
     [X] Simplificate mapDispatchToProps in ViewLink
 
 [ ] Posts: First EPIC
-    [ ] Create a reducer for posts
+    [X] Create a reducer for posts
     [ ] Create actions `fetchPosts()`, `fetchPostsFulfill(payload)`
     [ ] Create selector `getPostsList(state)`
     [ ] Create Epic `fetchPostsEpic`
