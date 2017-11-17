@@ -1,7 +1,6 @@
 import { FETCH_POSTS_FULFILLED } from './actions';
 
 export default function posts(state = {}, action) {
-  console.log(action.type);
   switch (action.type) {
     case FETCH_POSTS_FULFILLED:
       const newState = {};

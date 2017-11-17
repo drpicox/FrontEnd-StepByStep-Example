@@ -33,7 +33,7 @@ TODO
 [ ] Posts: First EPIC
     [X] Create a reducer for posts
     [X] Create actions `fetchPosts()`, `fetchPostsFulfilled(payload)`
-    [ ] Create selector `getPostsList(state)`
+    [X] Create selector `getPostsList(state)`
     [ ] Create Epic `fetchPostsEpic`
     [ ] Create Container ListAllPosts
     [ ] On App start fetch posts if none present
