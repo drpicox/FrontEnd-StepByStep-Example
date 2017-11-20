@@ -34,9 +34,9 @@ TODO
     [X] Create a reducer for posts
     [X] Create actions `fetchPosts()`, `fetchPostsFulfilled(payload)`
     [X] Create selector `getPostsList(state)`
+    [X] On App start fetch posts if none present
     [ ] Create Epic `fetchPostsEpic`
     [ ] Create Container ListAllPosts
-    [ ] On App start fetch posts if none present
     [ ] Create Container CurrentPost
 
 [ ] Posts Comments: Fetching under demmand EPIC
