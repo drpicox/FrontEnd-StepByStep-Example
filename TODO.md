@@ -46,7 +46,7 @@ TODO
     [X] Implement reduce for `fetchCommentsFulfilled(payload)`
     [X] Create selector `getCommentsList(state)` 
     [X] Create selector `getPostCommentsList(state, { postId })`
-    [ ] Create Epic `onViewPostFetchCommentsEpic`
+    [X] Create Epic `onViewPostFetchCommentsEpic`
     [ ] Create Epic `fetchCommentsEpic`
     [ ] Create Container CurrentPostComments
 
