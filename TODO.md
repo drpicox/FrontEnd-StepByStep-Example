@@ -39,7 +39,7 @@ TODO
     [X] Create Container ListAllPosts
     [X] Create Container CurrentPost
 
-[ ] Posts Comments: Fetching under demmand EPIC
+[X] Posts Comments: Fetching under demmand EPIC
     [X] Create a reducer for comments
     [X] Create action `fetchComments(postId)`
     [X] Create action `fetchCommentsFulfilled(payload)`
@@ -48,7 +48,7 @@ TODO
     [X] Create selector `getPostCommentsList(state, { postId })`
     [X] Create Epic `onViewPostFetchCommentsEpic`
     [X] Create Epic `fetchCommentsEpic`
-    [ ] Create Container CurrentPostComments
+    [X] Create Container CurrentPostComments
 
 [ ] Searching: Create a complex selector
     [ ] Create reducer for search
