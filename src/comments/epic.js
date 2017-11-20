@@ -1,5 +1,13 @@
+import { combineEpics } from 'redux-observable';
+
+import ajax from '../api';
+
 import { SET_VIEW } from '../actions';
-import { fetchComments } from './actions';
+import {
+  fetchComments,
+  FETCH_COMMENTS,
+  fetchCommentsFulfilled,
+} from './actions';
 
 export function onViewPostFetchCommentsEpic(action$) {
   return action$
@@ -8,4 +16,14 @@ export function onViewPostFetchCommentsEpic(action$) {
     .map(action => fetchComments(action.id));
 }
 
-export default onViewPostFetchCommentsEpic;
+export function fetchPostsEpic(action$) {
+  return action$
+    .ofType(FETCH_COMMENTS)
+    .mergeMap(action =>
+      ajax
+        .get(`/posts/${action.postId}/comments`)
+        .map(result => fetchCommentsFulfilled(result.response)),
+    );
+}
+
+export default combineEpics(fetchPostsEpic, onViewPostFetchCommentsEpic);

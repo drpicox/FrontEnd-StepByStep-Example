@@ -47,7 +47,7 @@ TODO
     [X] Create selector `getCommentsList(state)` 
     [X] Create selector `getPostCommentsList(state, { postId })`
     [X] Create Epic `onViewPostFetchCommentsEpic`
-    [ ] Create Epic `fetchCommentsEpic`
+    [X] Create Epic `fetchCommentsEpic`
     [ ] Create Container CurrentPostComments
 
 [ ] Searching: Create a complex selector
