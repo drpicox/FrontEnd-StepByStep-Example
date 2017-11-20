@@ -2,9 +2,6 @@ import 'rxjs/Rx';
 
 import { combineEpics } from 'redux-observable';
 
-function doNothingEpic(action$) {
-  return action$.filter(() => false);
-}
-// import issuesEpic from './issues/epic';
+import postsEpic from './posts/epic';
 
-export default combineEpics(doNothingEpic);
+export default combineEpics(postsEpic);

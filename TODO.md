@@ -35,7 +35,7 @@ TODO
     [X] Create actions `fetchPosts()`, `fetchPostsFulfilled(payload)`
     [X] Create selector `getPostsList(state)`
     [X] On App start fetch posts if none present
-    [ ] Create Epic `fetchPostsEpic`
+    [X] Create Epic `fetchPostsEpic`
     [ ] Create Container ListAllPosts
     [ ] Create Container CurrentPost
 
