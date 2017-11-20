@@ -30,14 +30,14 @@ TODO
     [X] Create Container ViewLink
     [X] Simplificate mapDispatchToProps in ViewLink
 
-[ ] Posts: First EPIC
+[X] Posts: First EPIC
     [X] Create a reducer for posts
     [X] Create actions `fetchPosts()`, `fetchPostsFulfilled(payload)`
     [X] Create selector `getPostsList(state)`
     [X] On App start fetch posts if none present
     [X] Create Epic `fetchPostsEpic`
     [X] Create Container ListAllPosts
-    [ ] Create Container CurrentPost
+    [X] Create Container CurrentPost
 
 [ ] Posts Comments: Fetching under demmand EPIC
     [ ] Create a reducer for comments

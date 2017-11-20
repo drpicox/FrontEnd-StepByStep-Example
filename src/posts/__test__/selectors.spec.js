@@ -1,4 +1,4 @@
-import { getPostsList } from '../selectors';
+import { getPostsList, getPost } from '../selectors';
 
 const POST_1 = { id: 1, title: 'post 1' };
 const POST_2 = { id: 2, title: 'post 2' };
@@ -22,5 +22,13 @@ describe('getPostsList', () => {
     const posts2 = getPostsList(STATE);
 
     expect(posts1).toBe(posts2);
+  });
+});
+
+describe('getPost', () => {
+  it('should return the requested post', () => {
+    const post = getPost(STATE, { postId: 1 });
+
+    expect(post).toBe(POST_1);
   });
 });
