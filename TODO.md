@@ -41,7 +41,9 @@ TODO
 
 [ ] Posts Comments: Fetching under demmand EPIC
     [X] Create a reducer for comments
-    [ ] Create actions `fetchComments()`, `fetchCommentsFulfill(payload)`
+    [X] Create action `fetchComments(postId)`
+    [ ] Create action `fetchCommentsFulfill(payload)`
+    [ ] Implement reduce for `fetchCommentsFulfill(payload)`
     [ ] Create selectors `getCommentsList(state)` 
         and `getPostCommentsList(state, { postId })`
     [ ] Create Epic `onViewPostFetchCommentsEpic`
