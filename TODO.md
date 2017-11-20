@@ -40,7 +40,7 @@ TODO
     [X] Create Container CurrentPost
 
 [ ] Posts Comments: Fetching under demmand EPIC
-    [ ] Create a reducer for comments
+    [X] Create a reducer for comments
     [ ] Create actions `fetchComments()`, `fetchCommentsFulfill(payload)`
     [ ] Create selectors `getCommentsList(state)` 
         and `getPostCommentsList(state, { postId })`
