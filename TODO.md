@@ -43,7 +43,7 @@ TODO
     [X] Create a reducer for comments
     [X] Create action `fetchComments(postId)`
     [X] Create action `fetchCommentsFulfilled(payload)`
-    [ ] Implement reduce for `fetchCommentsFulfilled(payload)`
+    [X] Implement reduce for `fetchCommentsFulfilled(payload)`
     [ ] Create selectors `getCommentsList(state)` 
         and `getPostCommentsList(state, { postId })`
     [ ] Create Epic `onViewPostFetchCommentsEpic`
