@@ -36,7 +36,7 @@ TODO
     [X] Create selector `getPostsList(state)`
     [X] On App start fetch posts if none present
     [X] Create Epic `fetchPostsEpic`
-    [ ] Create Container ListAllPosts
+    [X] Create Container ListAllPosts
     [ ] Create Container CurrentPost
 
 [ ] Posts Comments: Fetching under demmand EPIC
