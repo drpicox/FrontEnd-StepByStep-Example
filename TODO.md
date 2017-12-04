@@ -55,7 +55,7 @@ TODO
     [X] Create action `setSearch(search)`
     [X] Create selectors `getSearch(state)`
     [X] Create selectors `getSearchPostsList(state)`
-    [ ] Update Container ListAllPosts to ListSearchPosts
+    [X] Update Container ListAllPosts to ListSearchPosts
     [ ] Create Container CurrentSearch
 
 [ ] Bootstrap Styling

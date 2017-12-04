@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ListAllPosts from '../containers/ListAllPosts';
+import ListSearchPosts from '../containers/ListSearchPosts';
 import Search from './Search';
 
 export default function Welcome() {
@@ -10,7 +10,7 @@ export default function Welcome() {
       <Search />
       <br />
       Posts:
-      <ListAllPosts />
+      <ListSearchPosts />
     </div>
   );
 }
