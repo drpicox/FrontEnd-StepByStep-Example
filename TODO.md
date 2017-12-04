@@ -54,7 +54,7 @@ TODO
     [X] Create reducer for search
     [X] Create action `setSearch(search)`
     [X] Create selectors `getSearch(state)`
-    [ ] Create selectors `getSearchPostsList(state)`
+    [X] Create selectors `getSearchPostsList(state)`
     [ ] Update Container ListAllPosts to ListSearchPosts
     [ ] Create Container CurrentSearch
 
