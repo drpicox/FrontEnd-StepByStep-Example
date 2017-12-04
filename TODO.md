@@ -53,7 +53,8 @@ TODO
 [ ] Searching: Create a complex selector
     [X] Create reducer for search
     [X] Create action `setSearch(search)`
-    [ ] Create selectors `getSearch(state)` and `getSearchPostsList(state)`
+    [X] Create selectors `getSearch(state)`
+    [ ] Create selectors `getSearchPostsList(state)`
     [ ] Update Container ListAllPosts to ListSearchPosts
     [ ] Create Container CurrentSearch
 
