@@ -1,5 +1,15 @@
 import React from 'react';
 
-export default function Search() {
-  return <input type="text" placeholder="search" />;
+export default class Search extends React.Component {
+  onChange = e => this.props.setSearch(e.target.value);
+  render() {
+    return (
+      <input
+        value={this.props.search}
+        onChange={this.onChange}
+        type="text"
+        placeholder="search"
+      />
+    );
+  }
 }

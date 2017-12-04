@@ -50,13 +50,13 @@ TODO
     [X] Create Epic `fetchCommentsEpic`
     [X] Create Container CurrentPostComments
 
-[ ] Searching: Create a complex selector
+[X] Searching: Create a complex selector
     [X] Create reducer for search
     [X] Create action `setSearch(search)`
     [X] Create selectors `getSearch(state)`
     [X] Create selectors `getSearchPostsList(state)`
     [X] Update Container ListAllPosts to ListSearchPosts
-    [ ] Create Container CurrentSearch
+    [X] Create Container CurrentSearch
 
 [ ] Bootstrap Styling
     https://react-bootstrap.github.io/components.html
