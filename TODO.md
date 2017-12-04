@@ -51,7 +51,7 @@ TODO
     [X] Create Container CurrentPostComments
 
 [ ] Searching: Create a complex selector
-    [ ] Create reducer for search
+    [X] Create reducer for search
     [ ] Create action `setSearch(search)`
     [ ] Create selectors `getSearch(state)` and `getSearchPostsList(state)`
     [ ] Update Container ListAllPosts to ListSearchPosts
