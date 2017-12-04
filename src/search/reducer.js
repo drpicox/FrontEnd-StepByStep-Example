@@ -1,3 +1,10 @@
+import { SET_SEARCH } from './actions';
+
 export default function searchReducer(state = '', action) {
-  return state;
+  switch (action.type) {
+    case SET_SEARCH:
+      return action.search;
+    default:
+      return state;
+  }
 }
